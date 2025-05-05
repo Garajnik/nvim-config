@@ -1,3 +1,5 @@
 # 💤 LazyVim
 
-git clone https://github.com/LazyVim/starter ~/.config/nvim
+```
+git clone git@github.com:Garajnik/nvim-config.git ~/.config/nvim
+```
